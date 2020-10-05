@@ -33,3 +33,8 @@ target/
 
 # Vim session
 Session.vim
+
+.idea/
+
+#Goreleaser
+dist/
